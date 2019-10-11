@@ -19,7 +19,7 @@ from .model import *
 from .newick import *
 from .genetics import *
 from .partition import *
-ZERO      = 1e-8
+ZERO      = 1e-6
 MOLECULES = Genetics()
         
         
